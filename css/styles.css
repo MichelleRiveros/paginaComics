@@ -143,7 +143,6 @@ img{
 /*MODAL*/
 
 .modal {
-  display: flex;
   justify-content: center;
   position: fixed;
   top: 50%;
@@ -158,4 +157,11 @@ img{
   justify-content: center;
   align-content: center;
   background: red;
+} */
+
+
+/* SECTIONS */
+
+.hidden {
+  display: none;
 }
