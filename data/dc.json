@@ -1,0 +1,47 @@
+[
+    {
+      "picture": "storage/img/Dc/AcuaMan.png",
+      "name": "Acua Man",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/ArrowGreen.png",
+      "name": "Arrow Greenr",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/BatMan.png",
+      "name": "Bat Man",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/Flash.png",
+      "name": "Flash",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/LinternaVerde.png",
+      "name": "Linterna Verde",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/Robin.png",
+      "name": "Robin",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/sineroMan.png",
+      "name": "Sireno Man",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/SuperMan.png",
+      "name": "Super Man",
+      "button": "More Info"
+    },
+    {
+      "picture": "storage/img/Dc/WonderWoman.png",
+      "name": "Wonder Woman",
+      "button": "More Info"
+    }]
+  

@@ -1,0 +1,78 @@
+[
+  {
+    "picture": "storage/img/marvel/Hulk.png",
+    "name": "Hulk",
+    "button": "More Info",
+    "description": "wkenfklndf"
+  },
+  {
+    "picture": "storage/img/marvel/thor.png",
+    "name": "Thor",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/CapitanAmerica.png",
+    "name": "Capitan America",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/DoctorStrange.png",
+    "name": "Doctor Strange",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/BlackWidow.png",
+    "name": "Black Widow",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/BlackPanter.png",
+    "name": "Black Panter",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/Barnie.png",
+    "name": "Barnie",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/Ant-Man.png",
+    "name": "Ant Man",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/DeadPool.png",
+    "name": "Dead Pool",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/CapitanaMarvel.png",
+    "name": "Capitana Marvel",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/Garritas.png",
+    "name": "Garritas",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/Groot.png",
+    "name": "Groot",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/HIjadeBarnie.png",
+    "name": "Hija de Barnie",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/Loki.png",
+    "name": "Loki",
+    "button": "More Info"
+  },
+  {
+    "picture": "storage/img/marvel/Venom.png",
+    "name": "Venom",
+    "button": "More Info"
+  }
+]
