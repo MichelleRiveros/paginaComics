@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', async function () {
                 }
 
                 function cerrarModal(){
-                    dialog.close()
+                    dialog.close();
                 }
 
                 
