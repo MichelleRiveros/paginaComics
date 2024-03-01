@@ -3,76 +3,90 @@
     "picture": "storage/img/marvel/Hulk.png",
     "name": "Hulk",
     "button": "More Info",
-    "description": "wkenfklndf"
+    "description": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit."
   },
   {
     "picture": "storage/img/marvel/thor.png",
     "name": "Thor",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Id aute in dolor do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/CapitanAmerica.png",
     "name": "Capitan America",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem."
   },
   {
     "picture": "storage/img/marvel/DoctorStrange.png",
     "name": "Doctor Strange",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Id aute inuis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/BlackWidow.png",
     "name": "Black Widow",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non."
   },
   {
     "picture": "storage/img/marvel/BlackPanter.png",
     "name": "Black Panter",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Id aute imollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. "
   },
   {
     "picture": "storage/img/marvel/Barnie.png",
     "name": "Barnie",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Ido mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/Ant-Man.png",
     "name": "Ant Man",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/DeadPool.png",
     "name": "Dead Pool",
-    "button": "More Info"
+    "button": "More Info",
+    "description": " Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/CapitanaMarvel.png",
     "name": "Capitana Marvel",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Ipsum tempor sunt Lorem est. Fugiat nisi velit veniam labore et ullamco minim adipisicing do culpa."
   },
   {
     "picture": "storage/img/marvel/Garritas.png",
     "name": "Garritas",
-    "button": "More Info"
+    "button": "More Info",
+    "description": " mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/Groot.png",
     "name": "Groot",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/HIjadeBarnie.png",
     "name": "Hija de Barnie",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "a. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/Loki.png",
     "name": "Loki",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Id aute in dcia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   },
   {
     "picture": "storage/img/marvel/Venom.png",
     "name": "Venom",
-    "button": "More Info"
+    "button": "More Info",
+    "description": "Id aute in dficia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
   }
 ]

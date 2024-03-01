@@ -63,6 +63,8 @@ document.addEventListener('DOMContentLoaded', async function () {
 
                 function mostrarModal (){
                    
+              
+
                     const imgModal = document.getElementById('imagenModal');
                     imgModal.src = cardData.picture;
 
@@ -81,7 +83,6 @@ document.addEventListener('DOMContentLoaded', async function () {
 
                 
                 button.addEventListener('click', function () { //Le aladimos funcionalidad al boton
-                
                     mostrarModal();
                 
                 });

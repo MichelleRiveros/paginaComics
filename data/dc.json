@@ -2,46 +2,55 @@
     {
       "picture": "storage/img/Dc/AcuaMan.png",
       "name": "Acua Man",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit."
     },
     {
       "picture": "storage/img/Dc/ArrowGreen.png",
       "name": "Arrow Greenr",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Id aute in dolor do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
     },
     {
       "picture": "storage/img/Dc/BatMan.png",
       "name": "Bat Man",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem."
     },
     {
       "picture": "storage/img/Dc/Flash.png",
       "name": "Flash",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non."
     },
     {
       "picture": "storage/img/Dc/LinternaVerde.png",
       "name": "Linterna Verde",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Id aute in dolor do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
     },
     {
       "picture": "storage/img/Dc/Robin.png",
       "name": "Robin",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit."
     },
     {
       "picture": "storage/img/Dc/sineroMan.png",
       "name": "Sireno Man",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Id aute in dolor do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua."
     },
     {
       "picture": "storage/img/Dc/SuperMan.png",
       "name": "Super Man",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem."
     },
     {
       "picture": "storage/img/Dc/WonderWoman.png",
       "name": "Wonder Woman",
-      "button": "More Info"
+      "button": "More Info",
+      "description": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit."
     }]
   
